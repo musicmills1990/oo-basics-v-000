@@ -1,2 +1,2 @@
-
-
+class Book(title)
+end
